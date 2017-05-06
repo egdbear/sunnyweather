@@ -1,0 +1,9 @@
+{
+  "extends": ["node"],
+  "rules": {
+    "import/no-commonjs": 0,
+    "import/no-nodejs-modules": 0,
+    "no-var": 0,
+    "prefer-arrow-callback": 0
+  }
+}
